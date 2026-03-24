@@ -39,10 +39,3 @@ Uses NASA's free APOD API.
 No authentication required beyond a free API key.
 Get your key at https://api.nasa.gov
 
-## Project Structure
-
-celestial/
-  ├── client/         React frontend
-  ├── server/         Express backend
-  ├── assets/         Screenshots
-  └── README.md
