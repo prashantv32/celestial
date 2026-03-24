@@ -2,7 +2,7 @@
 
 > Explore the universe, one image at a time.
 
-![preview](assets/preview.png)
+![preview](client/src/assets/preview.png)
 
 Celestial is a full stack web app that displays NASA's 
 Astronomy Picture of the Day (APOD). Every image comes 
