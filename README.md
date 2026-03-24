@@ -20,15 +20,17 @@ image from NASA's archive dating back to June 16, 1995.
 ## How to run
 
 ### Backend
+```
 cd server
 npm install
 nodemon index.js
-
+```
 ### Frontend
+```
 cd client
 npm install
 npm run dev
-
+```
 Open http://localhost:5173
 
 ## API
